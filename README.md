@@ -1,8 +1,7 @@
 ### OLÁ.MUNDO
 
 - 🌱 estudante de programação
-- 📕 pretendo cursar ciencia da computação
-- 👌 no momento estou aprendendo java script
+
 
 <div align="center">
   <a href="https://github.com/jvcampelo">
