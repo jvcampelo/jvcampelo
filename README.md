@@ -32,7 +32,7 @@
 ## Portfolio:
 - [Dashboard interativo para clinica odontologica ](https://github.com/jvcampelo/Dashboard-clinica-odonto)
 - [Dashboard interativo para loja de perfumes](https://github.com/jvcampelo/Caso-ficticio-empresa-Mamp)
-- [Front end sobre atletas do botafogo](https://github.com/jvcampelo/Front-end-Botafogo)
+- [trade bot de criptomoedas com api da binance]([https://github.com/jvcampelo/Front-end-Botafogo](https://github.com/jvcampelo/Trading-bot-2025-1))
 
 <!-- GIF -->
 <p align="left">
